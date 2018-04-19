@@ -1,0 +1,16 @@
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.deps.json
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.runtimeconfig.json
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.runtimeconfig.dev.json
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.dll
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.pdb
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.BL.dll
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.Model.dll
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.BL.pdb
+C:\APIProject\ExpenseTracker\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.Model.pdb
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.csprojResolveAssemblyReference.cache
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.AssemblyInfo.cs
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.csproj.CopyComplete
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.dll
+C:\APIProject\ExpenseTracker\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.pdb
